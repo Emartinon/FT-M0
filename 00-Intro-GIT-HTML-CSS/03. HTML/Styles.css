@@ -1,0 +1,19 @@
+body{
+    color: green;}
+h1{
+        color:red;}
+
+img{
+        width: 400px;
+    }
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: saddlebrown;
+    padding: 50px;
+    border: 20px double red;
+}
+#SpanId{
+    font-size: 18px;
+    margin: 50px;
+   }
